@@ -10,6 +10,7 @@
     ./tmux/default.nix
     ./direnv/default.nix
     ./fzf/default.nix
+    ./firefox/default.nix
     ./programs/nix.nix
     ./kitty/default.nix
   ];
